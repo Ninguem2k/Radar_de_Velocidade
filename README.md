@@ -1,3 +1,8 @@
+Trabalho de derivadas Materia Calculo 2:
+
+<img width="1920" height="1002" alt="image" src="https://github.com/Ninguem2k/Radar_de_Velocidade/blob/main/image.png" />
+
+
 A derivada numérica é aproximada pela fórmula:
 
 ```
